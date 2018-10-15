@@ -1,5 +1,6 @@
 # STAT-355-Project-1
 Project 1 for STAT 355 - Fall 2018 UMBC
+DoHwan Park
 
 Question 1:
 Generate 1000 random samples of size 40 from the normal distribution with mean μ = 3 and standard deviation σ = 2.
